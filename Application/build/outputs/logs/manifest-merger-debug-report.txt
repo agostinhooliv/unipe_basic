@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/187fa3abda29cad95bd9ab5d90460c68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/277fee59fa11dea59768ffd0b30bd297/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/e8d3398c93f2eb79d946de0bbaab6d0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e3477245b066aacef8cd3f00fdaac2e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/ee8e1f73bcd4cd469f01157bd5b622b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/29fb2d78dc77b93ff1eb926ed1ea5981/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/e6b9eb0319c3b78d796c1f7966b8f776/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/7b77e9d0fc496cf0057ec4c59e565ff8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/3ed1d8c97b1b0ddbbae58daf04378734/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0dd1967727dd54725135fb253336a0ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/34f925a45fa37970486c1bebbf959550/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c107124a2a07f0d7bdba0869d9de5f11/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:19:5-53
+	android:versionName
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
+application
+ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:25:5-38:19
+	android:label
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:29:9-40
+activity#com.example.android.basicnotifications.MainActivity
+ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:30:9-37:20
+	android:label
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/187fa3abda29cad95bd9ab5d90460c68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/187fa3abda29cad95bd9ab5d90460c68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/277fee59fa11dea59768ffd0b30bd297/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/277fee59fa11dea59768ffd0b30bd297/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/e8d3398c93f2eb79d946de0bbaab6d0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/e8d3398c93f2eb79d946de0bbaab6d0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e3477245b066aacef8cd3f00fdaac2e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e3477245b066aacef8cd3f00fdaac2e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/ee8e1f73bcd4cd469f01157bd5b622b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/ee8e1f73bcd4cd469f01157bd5b622b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/29fb2d78dc77b93ff1eb926ed1ea5981/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/29fb2d78dc77b93ff1eb926ed1ea5981/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/e6b9eb0319c3b78d796c1f7966b8f776/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/e6b9eb0319c3b78d796c1f7966b8f776/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/7b77e9d0fc496cf0057ec4c59e565ff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/7b77e9d0fc496cf0057ec4c59e565ff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/3ed1d8c97b1b0ddbbae58daf04378734/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/3ed1d8c97b1b0ddbbae58daf04378734/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0dd1967727dd54725135fb253336a0ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0dd1967727dd54725135fb253336a0ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/34f925a45fa37970486c1bebbf959550/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/34f925a45fa37970486c1bebbf959550/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c107124a2a07f0d7bdba0869d9de5f11/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/agostinhoneto/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c107124a2a07f0d7bdba0869d9de5f11/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/agostinhoneto/AndroidStudioProjects/BasicNotifications/Application/src/main/AndroidManifest.xml
